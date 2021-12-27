@@ -1,5 +1,4 @@
 <h2>Java Problems Week 12/20:</h2>
-```
 1) A pronic number (or otherwise called as heteromecic)
 is a number which is a product of two consecutive integers, that is, a number of the form n(n + 1).
 Create a function that determines whether a number is pronic or not.
