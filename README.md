@@ -44,4 +44,3 @@ Notes:
 You can assume (and it is actually true!) that all positive whole numbers are either happy or unhappy.
 Any happy number will have a 1 in its sequence, and every unhappy number will have a 4 in its sequence.
 The only numbers passed to your function will be positive whole numbers.
-```
